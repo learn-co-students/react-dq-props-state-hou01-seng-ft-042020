@@ -40,7 +40,7 @@ export default class MasterHog extends Component {
         </div>
         
         <ul className="hoglist">
-          <BabyHog />
+          <BabyHog name="Hog" weight="2 lbs"/>
           <BabyHog />
           <BabyHog />
         </ul>
